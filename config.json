@@ -1,7 +1,7 @@
 {
   "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni",
-  "twrp_branch": "twrp-10.0",
-  "git_username": "y2q",
+  "twrp_branch": "twrp-9.0",
+  "git_username": "Pinkdoge",
   "git_email": "503369121@qq.com",
   "use_own_dt": true,
   "dt_url": "github.com/503369121/android_device_samsung_y2q",
