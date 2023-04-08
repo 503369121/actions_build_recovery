@@ -5,12 +5,12 @@
   "git_email": "503369121@qq.com",
   "use_own_dt": true,
   "dt_url": "github.com/503369121/android_device_samsung_y2q",
-  "dt_branch": "android-12.1",
+  "dt_branch": "master",
   "dt_remote": "github",
   "dt_path": "device/samsung/y2q",
   "device_code": "y2q",
   "fix_product": true,
   "fix_misscom": true,
   "fix_busybox": false,
-  "fix_branch": "android-12.1"
+  "fix_branch": "master"
 }
